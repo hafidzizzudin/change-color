@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
+## Requirement
+```bash
+# node version v20.3.1 or later
+$ node -v
+
+# npm version 9.7.2 or later
+$ npm -v
+```
+
+## Setup environment
+Edit file `src/environment/environment.ts` and provide the base url for the server e.g `http://localhost:3000`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
